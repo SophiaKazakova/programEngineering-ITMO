@@ -9,3 +9,5 @@ https://www.opennet.ru/base/dev/ant_10.txt.html — базовая база по
 
 ### Обзор тасков Apache Ant
 https://ant.apache.org/manual/tasksoverview.html — подробная информация о тасках Анта
+
+https://jar-download.com/download-handling.php
