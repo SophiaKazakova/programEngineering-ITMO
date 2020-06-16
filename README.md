@@ -1,5 +1,3 @@
-# programEngineering-ITMO
-
 ## Viewer discretion is advised
 
 Знакомство с Java, IntelliJ Idea, Apache Ant и частично даже с git происходило прямо в процессе работы над лабораторной работой, так что любые комментарии, и в том числе к стилистике кода, приветствуются.
